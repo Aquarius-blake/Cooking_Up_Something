@@ -1,2 +1,2 @@
-// the hello world program
-console.log('Hello World');
+// Dont you smell something  burning?
+console.log('Just a Prank');
