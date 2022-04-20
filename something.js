@@ -3,4 +3,4 @@ console.log('It\'s just a Prank');
 
 console.log('Haha, very funny :(');
 
-console.log('😜')
+console.log('😜');
